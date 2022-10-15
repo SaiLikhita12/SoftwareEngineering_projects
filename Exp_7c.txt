@@ -1,0 +1,5 @@
+SUBJECT - SOFTWARE ENGINEERING
+Experiment - 7c
+Exp Name - Working with Git Commands:Local Repository
+Student Name - Sai Likhita Rage
+CSM - A
